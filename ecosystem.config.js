@@ -31,7 +31,7 @@ module.exports = {
   deploy : {
     production : {
       user : 'node',
-      host : '202.182.124.93',
+      host : '118.25.87.25',
       ref  : 'origin/master',
       repo : 'git@github.com:labirin/pickabook-restful-api.git',
       path : '/home/labirin/server',
@@ -40,7 +40,7 @@ module.exports = {
     },
     dev : {
       user : 'node',
-      host : '202.182.124.93',
+      host : '118.25.87.25',
       ref  : 'origin/master',
       repo : 'git@github.com:labirin/pickabook-restful-api.git',
       path : '/home/labirin/server',
